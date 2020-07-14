@@ -1,4 +1,5 @@
 # rust
+https://victorydntmd.tistory.com/53
 
 1. 개발 준비
 
